@@ -31,6 +31,8 @@ It performs arithmetic , trigonometry , powers , roots √, logarithms , and fac
 Here is what the calculator looks like:  
 
 ![Alain Calculator](images/alan%20calc.jpg)
+## With it's live demo
+👉[Try it](https://alainiranzi.github.io/Calculator/)
 
 
 
