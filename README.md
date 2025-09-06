@@ -30,7 +30,8 @@ It performs arithmetic , trigonometry , powers , roots √, logarithms , and fac
 
 Here is what the calculator looks like:  
 
-![Calculator Screenshot](screenshot.png)  
+![Alain Calculator](images/alan%20calc.jpg)
+
 
 
 
