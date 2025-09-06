@@ -9,9 +9,24 @@
   border-bottom: crimson;
   border-width: 3px;
   border-color: brown;
-  border-style:outset;
+  border-style:outset
   
   
+ }
+ h3 {
+    color:darkred;
+ }
+ button {
+    background-color: burlywood;
+    width: 100px;
+    border-radius: initial;
+
+ }
+ button:hover {
+    background-color:chocolate;
+ }
+ label {
+    color:firebrick;
  }
  
  
